@@ -3,10 +3,6 @@ hostname=localhost
 user=root
 password=""
 
-for remote hosting
-hostname=192.168.43.187/missingpersons/
-username=franklin
-passowrd=swatznigger
 
 system admin
 username:franklinokech@gmail.com
